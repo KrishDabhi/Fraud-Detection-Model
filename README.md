@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Financial Fraud Detection System
+# 🕵️‍♂️ Financial Fraud Detection using Machine Learning
 
 This project implements a high-performance machine learning model to detect fraudulent financial transactions in a large-scale real-world dataset. Leveraging advanced feature engineering, outlier management, and LightGBM with hyperparameter tuning, the model achieves **>99.9% accuracy**, **~99.8% F1-score**, and near-perfect **ROC-AUC** and **PR-AUC** metrics—making it production-ready for real-time fraud prevention in banking or fintech applications.
 
