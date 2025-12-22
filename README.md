@@ -47,7 +47,7 @@ This project implements a high-performance machine learning model to detect frau
 | **F1-Score**  | 0.9985    |
 | **Precision** | 0.9994    |
 | **Recall**    | 0.9976    |
-| **Accuracy**  | 1.0000    |
+| **Accuracy**  | 0.9999    |
 
 **Confusion Matrix (Validation Set)**:
 ```
