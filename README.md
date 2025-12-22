@@ -68,7 +68,7 @@ FN: 4         | TP: 1,639
 
 ## 🛠️ Requirements
 
-- Python 3.8+
+- Python 3.12.3+
 - Libraries:
   ```txt
   pandas
